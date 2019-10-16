@@ -5,27 +5,27 @@ Submitted by: Hoa Nguyen
 Time spent: 3 Hours
 
 ## Usage
-### Step 1
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash
+### Step 1 : Install and Update script using wget
+`wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash`
 
 
 ### Step 2 : Install node
-nvm install node
+`nvm install node`
 
 
 ### Step 3 : Install serve
-nvm install serve
+`npm install serve`
 
-### Step 3
-npm init
+### Step 4 : Set up information about project name, version, ... and create package.json
+`npm init`
 
-### Step 4
+### Step 4 : Change package.json
 Open folder package.json add under line "test":
 "start": "serve"
 
 
 ### Step 4 : Run Project
-npm start
+`npm start` 
 
 
 ## User Stories
@@ -35,7 +35,7 @@ npm start
 + You click button at buttom right of Website to switch Comment Page and click button 'x' at top right of Website to close.
 
 ## Preview how it work
-
+![Philadelphia's Magic Gardens. This place was so cool!](/Dribbble-1/images/header.jpeg)
 
 
 ## License
