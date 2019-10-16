@@ -1,0 +1,23 @@
+{
+  "name": "dribbble-1",
+  "version": "1.0.0",
+  "description": "Dribbble 1 in Mobile, using HTML, CSS and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoanguyen1203/Dribbble-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoanguyen1203/Dribbble-1/issues"
+  },
+  "homepage": "https://github.com/hoanguyen1203/Dribbble-1#readme",
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}

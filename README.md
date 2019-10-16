@@ -1,28 +1,18 @@
 # Pre-work - Dribbble 1
-Dribbble 1 in Mobile
+Dribbble 1 in Mobile, using HTML, CSS and JavaScript.
 
 Submitted by: Hoa Nguyen
 Time spent: 3 Hours
 
 ## Usage
-### Step 1 : Install Node 
-brew install node
-brew install watchman
+### Step 1 : Install
 
-### Step 2 : Install XCODE or Android Studio
 
-*XCODE*
-The easiest way to install Xcode 8 is via the [Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12). Installing Xcode will also install the iOS Simulator and all the necessary tools to build your iOS app.
+### Step 2 : Install 
 
-*Android Studio*
-Install Android studio via [Android Studio Page](https://developer.android.com/studio/index.html)
 
 ### Step 3 : Run Project 
-Go to folder and type this command
-If you run project on iOS 
-react-native run-ios
-Android
-react-native run-android
+
 
 ## User Stories
 
@@ -32,14 +22,11 @@ react-native run-android
 
 ## Preview how it work
 
-![PreWorkCalculator](https://github.com/vitqst/PreWorkCalculator/blob/master/screenshot/prework.gif "PreWorkCalculator")
 
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-Copyright [2019] [VuiDang]
+Copyright [2019] [HoaNguyen]
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
