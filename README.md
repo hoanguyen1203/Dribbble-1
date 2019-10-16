@@ -5,20 +5,23 @@ Submitted by: Hoa Nguyen
 Time spent: 3 Hours
 
 ## Usage
-### Step 1 : Install
+### Step 1 : Install node
+npm install node
 
 
-### Step 2 : Install 
+### Step 2 : Install serve
+nvm install serve
 
 
-### Step 3 : Run Project 
+### Step 3 : Run Project
+npm start
 
 
 ## User Stories
 
-+ User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-+ Settings page to change Scene Transition
-+ Keyboard just using number 
++ On Home Page, you click button 'TRAVEL' in order to switch Content Page
++ You click button 'CLOSE' at buttom left of Website to back Home Page
++ You click button at buttom right of Website to switch Comment Page and click button 'x' at top right of Website to close.
 
 ## Preview how it work
 
