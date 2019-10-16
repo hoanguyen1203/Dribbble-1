@@ -5,15 +5,26 @@ Submitted by: Hoa Nguyen
 Time spent: 3 Hours
 
 ## Usage
-### Step 1 : Install node
-npm install node
+### Step 1
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash
 
 
-### Step 2 : Install serve
+### Step 2 : Install node
+nvm install node
+
+
+### Step 3 : Install serve
 nvm install serve
 
+### Step 3
+npm init
 
-### Step 3 : Run Project
+### Step 4
+Open folder package.json add under line "test":
+"start": "serve"
+
+
+### Step 4 : Run Project
 npm start
 
 
