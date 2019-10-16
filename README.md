@@ -35,7 +35,8 @@ Open folder package.json add under line "test":
 + You click button at buttom right of Website to switch Comment Page and click button 'x' at top right of Website to close.
 
 ## Preview how it work
-![Philadelphia's Magic Gardens. This place was so cool!](/Dribbble-1/images/header.jpeg)
+
+![Dribbble 1!](https://github.com/hoanguyen1203/Dribbble-1/blob/master/images/header.jpeg)
 
 
 ## License
