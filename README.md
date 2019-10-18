@@ -36,7 +36,7 @@ Open folder package.json add under line "test":
 
 ## Preview how it work
 
-![Dribbble 1!](https://github.com/hoanguyen1203/Dribbble-1/blob/master/images/header.jpeg)
+![Dribbble 1!](https://github.com/hoanguyen1203/Dribbble-1/blob/master/images/dribbble-1.gif)
 
 
 ## License
